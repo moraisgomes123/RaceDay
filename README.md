@@ -405,7 +405,15 @@ Add the screenshot of the successful green build below.
 
 ### Successful CI Build
 
-![GitHub Actions Green Build](docs/CI_Green_Build.png)
+<img width="551" height="259" alt="Screenshot 2026-08-30 154634" src="https://github.com/user-attachments/assets/f930beb6-2c2e-486f-af1f-f328a1980ff1" />
+
+
+<img width="930" height="490" alt="Screenshot 2026-08-30 154652" src="https://github.com/user-attachments/assets/1bd91b93-90b7-4914-a541-7c1fc04505c0" />
+
+<img width="681" height="242" alt="Screenshot 2026-08-30 154612" src="https://github.com/user-attachments/assets/fa15a9a9-55ad-47fd-87f7-10b7c339f03b" />
+
+
+
 
 ---
 
