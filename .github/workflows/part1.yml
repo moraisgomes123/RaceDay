@@ -30,7 +30,7 @@ jobs:
 
       - name: Check ERD
         run: |
-          test -f docs/RaceDay_ERD.png
+          test -f docs/RaceDay_ERD.png.png
           echo "RaceDay_ERD.png found"
 
       - name: Check API Endpoint Plan
@@ -40,12 +40,12 @@ jobs:
 
       - name: Check SQL Database Script
         run: |
-          test -f docs/RaceDay_Database.sql
+          test -f docs/RaceDayDB.sql
           echo "RaceDay_Database.sql found"
 
       - name: Validate SQL file is not empty
         run: |
-          test -s docs/RaceDay_Database.sql
+          test -s docs/RaceDayDB.sql
           echo "SQL script is not empty"
 
       - name: Validate API plan is not empty
@@ -55,7 +55,7 @@ jobs:
 
       - name: Validate ERD file
         run: |
-          file docs/RaceDay_ERD.png
+          file docs/RaceDay_ERD.png.png
           echo "ERD file checked"
 
       - name: Part 1 validation completed
