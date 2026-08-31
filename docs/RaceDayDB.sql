@@ -6,16 +6,6 @@
 ===========================================================
 */
 
-IF DB_ID(N'RaceDayDB') IS NOT NULL
-BEGIN
-    ALTER DATABASE RaceDayDB
-    SET SINGLE_USER
-    WITH ROLLBACK IMMEDIATE;
-
-    DROP DATABASE RaceDayDB;
-END;
-GO
-
 CREATE DATABASE RaceDayDB;
 GO
 
