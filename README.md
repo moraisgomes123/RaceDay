@@ -332,6 +332,40 @@ SELECT * FROM Results;
 
 The script contains sample data for Organisers, Participants, Events, Routes, Categories, Enrolments and Results.
 
+
+## screen shots of queries
+
+-- 1. Display Users
+SELECT * FROM Users;
+
+<img width="788" height="109" alt="image" src="https://github.com/user-attachments/assets/9a593660-a19a-4814-bf25-7eaf9024d13e" />
+
+-- 2. Display Events
+SELECT * FROM Events;
+
+<img width="790" height="104" alt="image" src="https://github.com/user-attachments/assets/f9600990-fb26-444a-b0bc-71c148db7a73" />
+
+
+-- 3. Display Routes
+SELECT * FROM Routes;
+
+<img width="650" height="112" alt="image" src="https://github.com/user-attachments/assets/883c2edb-5ffa-44ae-b78c-b1805474b5dd" />
+
+-- 4. Display Categories
+SELECT * FROM Categories;
+
+<img width="414" height="134" alt="image" src="https://github.com/user-attachments/assets/29ad6562-a16e-40fc-a341-7cf4b98046c8" />
+
+-- 5. Display Enrolments
+SELECT * FROM Enrolments;
+
+<img width="400" height="134" alt="image" src="https://github.com/user-attachments/assets/9a4ab675-9087-422f-ba95-986fae76351c" />
+
+-- 6. Display Results
+SELECT * FROM Results;
+
+<img width="296" height="86" alt="image" src="https://github.com/user-attachments/assets/4b1e84ed-cf9d-4fd8-a1da-927db79029c9" />
+
 ---
 
 # 9. Seed Data
