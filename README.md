@@ -527,28 +527,26 @@ https://www.youtube.com/watch?v=8F7hJiJ_rQk
 
 ---
 
-# 15. Final Submission Checklist
+# 15. References 
+ ## References
 
-Before submitting Part 1, confirm that:
+Docker (2025) *Docker documentation*. Available at: [https://docs.docker.com/](https://docs.docker.com/?utm_source=chatgpt.com) (Accessed: 3 September 2026).
 
-* [ ] GitHub repository is accessible
-* [ ] `README.md` is complete
-* [ ] `/docs` folder exists
-* [ ] ERD is inside `/docs`
-* [ ] API Endpoint Plan is inside `/docs`
-* [ ] SQL script is inside `/docs`
-* [ ] ERD matches the SQL database
-* [ ] All six entities are included
-* [ ] PKs and FKs are correctly defined
-* [ ] Cardinalities are correct
-* [ ] SQL script runs successfully in SSMS
-* [ ] Seed data covers all entities
-* [ ] At least 2 Organisers exist
-* [ ] At least 2 Participants exist
-* [ ] At least 3 Events exist
-* [ ] Each Event has Categories
-* [ ] GitHub Actions workflow passes
-* [ ] Green CI screenshot is included
-* [ ] At least 20 meaningful commits are present
-* [ ] YouTube presentation is uploaded as Unlisted
-* [ ] YouTube link is added to README
+Fielding, R.T. (2000) *Architectural styles and the design of network-based software architectures*. Doctoral dissertation. University of California, Irvine. Available at: [https://ics.uci.edu/~fielding/pubs/dissertation/top.htm](https://ics.uci.edu/~fielding/pubs/dissertation/top.htm?utm_source=chatgpt.com) (Accessed: 2 September 2026).
+
+Microsoft (2025) *SQL Server documentation*. Available at: [https://learn.microsoft.com/en-us/sql/sql-server/](https://learn.microsoft.com/en-us/sql/sql-server/?utm_source=chatgpt.com) (Accessed: 3 September 2026).
+
+NIST (2020) *Security and privacy controls for information systems and organizations*. NIST Special Publication 800-53 Revision 5. Available at: [https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final?utm_source=chatgpt.com) (Accessed: 2 September 2026).
+
+Oracle (2024) *Database design and relational database concepts*. Available at: [https://docs.oracle.com/en/database/](https://docs.oracle.com/en/database/?utm_source=chatgpt.com) (Accessed: 4 September 2026).
+
+Pressman, R.S. and Maxim, B.R. (2020) *Software engineering: A practitioner's approach*. 9th edn. New York: McGraw-Hill.
+
+
+GitHub (2026) *Quickstart for GitHub Actions*. Available at: [https://docs.github.com/en/actions/get-started/quickstart](https://docs.github.com/en/actions/get-started/quickstart?utm_source=chatgpt.com) (Accessed: 1 September 2026).
+
+Microsoft (2026) *Tutorial: Getting started with the Database Engine*. Microsoft Learn. Available at: [https://learn.microsoft.com/en-us/sql/relational-databases/tutorial-getting-started-with-the-database-engine](https://learn.microsoft.com/en-us/sql/relational-databases/tutorial-getting-started-with-the-database-engine?view=sql-server-ver17&utm_source=chatgpt.com) (Accessed: 3 September 2026).
+
+Microsoft (2026) *Database Engine tutorials*. Microsoft Learn. Available at: [https://learn.microsoft.com/en-us/sql/relational-databases/database-engine-tutorials](https://learn.microsoft.com/en-us/sql/relational-databases/database-engine-tutorials?view=sql-server-ver17&utm_source=chatgpt.com) (Accessed: 3 September 2026).
+
+Microsoft (2026) *SQL Server documentation*. Microsoft Learn. Available at: [https://learn.microsoft.com/sql/](https://learn.microsoft.com/sql/?view=sql-server-ver20&utm_source=chatgpt.com) (Accessed: 3 September 2026).
